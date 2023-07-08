@@ -1,9 +1,33 @@
 # Payroll
-Payroll-Microsoft-Excel Payroll for 200 employees of company XYZ 
+ Payroll for 200 employees of company XYZ (Everything in this project was done with Microsoft Excel)
 # Business scenario 
-![images](https://github.com/mademoixcel/Payroll/assets/124081194/f5fa8986-08a0-462d-b1d2-d727d1817175)
-Please note that this message is entirely fictional and should not be used for any deceptive purposes.
+It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup founder.
 
+
+
+
+![linkedin_Chat](https://github.com/mademoixcel/Payroll/assets/124081194/10830fb4-194d-4ef5-b52b-ef2c46cdf686)
+
+
+
+**Please note that this message is entirely fictional and should not be used for any deceptive purposes.**
+
+
+
+Apparently, the company expanded in a short period of time and they haven't been able to keep track of their employee's payments for a month. So, guess who would be doing that? ME. 
+Fast forward to Monday, we had a brief call to discuss in detail what the company wanted. I got the file after the call. It was in xlsx format. The data contained:
+
+# Details of Dataset
+1. Employee id
+2. first name
+3. last name
+4. Gender
+5. Department 
+6. Amount earned (per hour)
+7. Weekly hours worked
+
+   
+** Please note that I used a random generator to generate the Employee id, first name, last name, Gender,Department, Amount earned (per hour), and Weekly hours worked
 # Overview
 
 This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 200 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
