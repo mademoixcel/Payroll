@@ -1,11 +1,15 @@
 # Payroll
-Payroll-Microsoft-Excel Payroll for 200 employees of company XYZ  
+Payroll-Microsoft-Excel Payroll for 200 employees of company XYZ 
+# Business scenario 
+![images](https://github.com/mademoixcel/Payroll/assets/124081194/f5fa8986-08a0-462d-b1d2-d727d1817175)
+Please note that this message is entirely fictional and should not be used for any deceptive purposes.
+
 # Overview
 
-This Excel payroll project is a comprehensive spreadsheet solution for managing payroll information and calculations of company XYZ with 200 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay and net pay.
+This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 200 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
 
 # Features
-- Conditional formatting to highlight average earnings top earners and least earners
+- Conditional formatting to highlight average earnings of top earners and least earners
 
 - Tracks employee hours worked
 
