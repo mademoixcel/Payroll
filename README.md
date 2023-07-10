@@ -1,5 +1,10 @@
 # Payroll
- Payroll for 200 employees of company XYZ (Everything in this project was done with Microsoft Excel)
+ Payroll for 87 employees of company XYZ (Everything in this project was done with Microsoft Excel and Figma)
+
+ # Overview
+
+This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 87 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
+
 # Business scenario 
 It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup founder.
 
@@ -27,10 +32,11 @@ Fast forward to Monday, we had a brief call to discuss in detail what the compan
 7. Weekly hours worked
 
    
-** Please note that I used a random generator to generate the Employee id, first name, last name, Gender,Department, Amount earned (per hour), and Weekly hours worked
-# Overview
+ **Note that I used a [random generator](http://random-name-generator.info/) to generate the names used in this project and a [list randomizer](https://www.randomlists.com/list-randomizer?dup=true&qty=7&items=Founders%2FEntrepreneurs%0AProduct+Development%0AEngineering%2FTechnology%0ASales+and+Business+Development%0AMarketing%0AOperations%0AHuman+Resources%0AFinance+and+Accounting%0ACustomer+Support%0ALegal+and+Compliance) to randomize the departments 87 times to allow for duplicates.**
 
-This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 200 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
+# Numbering my rows and using RAND() & RANDBETWEEN() 
+I used sequence to number my rows, then copied the randomly generated names to my spreadsheet. The males and females names were stacked on top of each other. To get my way around this, I used RAND(). 1st problem solved. Next thing was to give working hours to each employee. I used RANDBETWEEN() to do this, setting my minimum and maximum working hours. I did this for each week in the month of March. I also used RANDBETWEEN() to randomize the amount to be paid to each employee, equally setting the minimum and maximum.
+
 
 # Features
 - Conditional formatting to highlight average earnings of top earners and least earners
