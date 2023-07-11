@@ -56,7 +56,7 @@ I calculated the gross pay for each week by adding the overtime payment and the 
 I calculated the gross pay by adding the total gross pay for each week, then removed the 7% tax. I did this by using =(0.007 * gross pay). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
 
 # Who are the top earners 
-To do this, I will be using conditional formatting. To do this I sele
+To do this, I will be using conditional formatting. To do this I selected the gross pay, clicked on co
 
 
 
