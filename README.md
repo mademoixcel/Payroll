@@ -4,6 +4,17 @@
 
 This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 87 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
 
+# Instructions
+
+1 Download the Excel file from GitHub.
+
+2 Open the file and click go to the drop-down list.
+
+3 Select employee id to view employee details.
+
+4 Use the provided formulas to calculate taxes and net pay.
+
+
 # Features
 - Conditional formatting to highlight top earners and least earners
 
@@ -70,16 +81,6 @@ I calculated the gross pay by adding the total gross pay for each week, then rem
 
 # Who are the top earners 
 To do this, I will be using conditional formatting. To do this I selected the gross pay, clicked on co
-
-# Instructions
-
-1 Download the Excel file from GitHub.
-
-2 Open the file and click go to the drop-down list.
-
-3 Select employee id to view employee details.
-
-4 Use the provided formulas to calculate taxes and net pay.
 
 # Contributing
 
