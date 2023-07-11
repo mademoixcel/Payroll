@@ -1,5 +1,4 @@
-# Payroll
- Payroll for 87 employees of company XYZ (Everything in this project was done with Microsoft Excel and Figma)
+ (Everything in this project was done with Microsoft Excel and Figma)
 
  # Overview
 
@@ -32,10 +31,18 @@ Fast forward to Monday, we had a brief call to discuss in detail what the compan
 7. Weekly hours worked
 
    
- **Note that I used a [random generator](http://random-name-generator.info/) to generate the names used in this project and a [list randomizer](https://www.randomlists.com/list-randomizer?dup=true&qty=7&items=Founders%2FEntrepreneurs%0AProduct+Development%0AEngineering%2FTechnology%0ASales+and+Business+Development%0AMarketing%0AOperations%0AHuman+Resources%0AFinance+and+Accounting%0ACustomer+Support%0ALegal+and+Compliance) to randomize the departments 87 times to allow for duplicates.**
+ **Note that I used a [random generator](http://random-name-generator.info/) to generate the names used in this project and a [list randomizer](https://www.randomlists.com/list-randomizer?dup=true&qty=7&items=Founders%2FEntrepreneurs%0AProduct+Development%0AEngineering%2FTechnology%0ASales+and+Business+Development%0AMarketing%0AOperations%0AHuman+Resources%0AFinance+and+Accounting%0ACustomer+Support%0ALegal+and+Compliance) to randomize the departments to allow for duplicates.**
 
 # Numbering my rows and using RAND() & RANDBETWEEN() 
-I used sequence to number my rows, then copied the randomly generated names to my spreadsheet. The males and females names were stacked on top of each other. To get my way around this, I used RAND(). 1st problem solved. Next thing was to give working hours to each employee. I used RANDBETWEEN() to do this, setting my minimum and maximum working hours. I did this for each week in the month of March. I also used RANDBETWEEN() to randomize the amount to be paid to each employee, equally setting the minimum and maximum.
+I used SEQUENCE() to number my rows, then copied the randomly generated names to my spreadsheet. The male's and female's names were stacked on top of each other. To get my way around this, I used RAND(). 1st problem was solved. The next thing was to give working hours to each employee. I used RANDBETWEEN() to do this, setting my minimum and maximum working hours. I did this for each week in the month of March. I also used RANDBETWEEN() to randomize the amount to be paid to each employee, equally setting the minimum and maximum.
+
+![Screenshot (997)](https://github.com/mademoixcel/Payroll/assets/124081194/fb8c6070-c07d-4e5c-b778-142c0c912c40)
+
+
+# Calculating Gross Pay for each week
+
+
+
 
 
 # Features
