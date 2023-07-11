@@ -79,6 +79,10 @@ I calculated the gross pay for each week by adding the overtime payment and the 
 # Total Gross pay, Tax, and Net pay
 I calculated the gross pay by adding the total gross pay for each week, then removed the 7% tax. I did this by using =(0.007 * gross pay). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
 
+# How many people are in each department?
+<img width="2402" alt="voice activated app Diagram (Community) (8)" src="https://github.com/mademoixcel/Payroll/assets/124081194/76e38a8b-8b88-40e0-b7c4-d21369cee00e">
+
+
 # Who are the top earners 
 To do this, I will be using conditional formatting. To do this I selected the gross pay, clicked on co
 
