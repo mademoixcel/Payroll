@@ -4,6 +4,19 @@
 
 This Excel payroll project is a comprehensive spreadsheet solution for managing the payroll information and calculations of company XYZ with 87 employees. It includes all relevant formulas and calculations necessary to manage employee data, including hours worked, taxes calculated, gross pay, and net pay.
 
+# Features
+- Conditional formatting to highlight top earners and least earners
+
+- Tracks employee hours worked
+
+- Calculates taxes
+
+- Calculates total net pay
+
+- Uses functions and formulas such as VLOOKUP, COUNTIF, SUMIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
+
+- Drop down list to choose employee id (this will show each employee's details)
+
 # Business scenario 
 It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup founder.
 
@@ -57,22 +70,6 @@ I calculated the gross pay by adding the total gross pay for each week, then rem
 
 # Who are the top earners 
 To do this, I will be using conditional formatting. To do this I selected the gross pay, clicked on co
-
-
-
-
-# Features
-- Conditional formatting to highlight top earners and least earners
-
-- Tracks employee hours worked
-
-- Calculates taxes
-
-- Calculates total net pay
-
-- Uses functions and formulas such as VLOOKUP, COUNTIF, SUMIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
-
-- Drop down list to choose employee id (this will show each employee's details)
 
 # Instructions
 
