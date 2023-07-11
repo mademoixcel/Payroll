@@ -1,4 +1,4 @@
- (Everything in this project was done with Microsoft Excel and Figma)
+ Everything in this project was done with Microsoft Excel and Figma.
 
  # Overview
 
@@ -39,18 +39,30 @@ I used SEQUENCE() to number my rows, then copied the randomly generated names to
 ![Screenshot (997)](https://github.com/mademoixcel/Payroll/assets/124081194/fb8c6070-c07d-4e5c-b778-142c0c912c40)
 
 
-# Calculating Gross Pay for each week using SUM()
+# Calculating Pay for each week using SUM()
 
-I calculated salary for each employee by multiplying the amount paid per hour and hours_worked. 
+I calculated the salary for each employee by multiplying the amount paid per hour and hours_worked. 
 
-# Overtime and Overtime Payment. 
+# Overtime and  Overtime Payment
 
-The client asked to calculate the overtime for each employee 
+The client asked to calculate the overtime pay for each employee by giving each employee 1/4 of their hourly wage only if they work overtime, stating that any employee that's working between 31 to 40 hours per week is using overtime. To do this, I first calculated the overtime hours using =IF(column['hours_worked']>30, column['hours_worked']-30,0). This will subtract the working hour from 30, only if the working hour is greater than 30, else it should be zero.
+
+# Gross pay for each week
+I calculated the gross pay for each week by adding the overtime payment and the salary, then named and gave color to each week to be able to differentiate them.
+
+![Screenshot (999)](https://github.com/mademoixcel/Payroll/assets/124081194/6ad92200-d51f-4127-8350-9767790c8199)
+
+# Total Gross pay, Tax, and Net pay
+I calculated the gross pay by adding the total gross pay for each week, then removed the 7% tax. I did this by using =(0.007 * gross pay). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
+
+# Who are the top earners 
+To do this, I will be using conditional formatting. To do this I sele
+
 
 
 
 # Features
-- Conditional formatting to highlight average earnings of top earners and least earners
+- Conditional formatting to highlight top earners and least earners
 
 - Tracks employee hours worked
 
@@ -60,15 +72,15 @@ The client asked to calculate the overtime for each employee
 
 - Uses functions and formulas such as VLOOKUP, COUNTIF, SUMIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
 
-- Drop down list to choose employee id (this will show each employee details)
+- Drop down list to choose employee id (this will show each employee's details)
 
 # Instructions
 
 1 Download the Excel file from GitHub.
 
-2 Open the file and click go to the drop down list.
+2 Open the file and click go to the drop-down list.
 
-3 Select employeed id to view employee details.
+3 Select employee id to view employee details.
 
 4 Use the provided formulas to calculate taxes and net pay.
 
