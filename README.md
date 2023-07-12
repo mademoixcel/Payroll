@@ -24,7 +24,7 @@ This Excel payroll project is a comprehensive spreadsheet solution for managing 
 
 - Calculates total net pay
 
-- Uses functions and formulas such as VLOOKUP, COUNTIF, SUMIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
+- Uses functions and formulas such as VLOOKUP, COUNTIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
 
 - Drop down list to choose employee id 
 
