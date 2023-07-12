@@ -85,7 +85,7 @@ I calculated the gross pay by adding the total gross pay for each week, then rem
 
 # How many people are in the organization
 
-I used COUNTIF() for this using 'Male' and 'Female' respectively for the criteria of each COUNTIF(). The result showed there are 52 Males and 35 Females .
+I used COUNTIF() for this using 'Male' and 'Female' respectively for the criteria of each COUNTIF(). The result showed there are 52 Males and 35 Females. Overall, there are 87 people in the organization.
 
 
 <img width="1705" alt="Untitled (27)" src="https://github.com/mademoixcel/Payroll/assets/124081194/f363cd09-690a-433b-8fd4-67995406d19e">
