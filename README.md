@@ -34,7 +34,8 @@ It was on a Friday Afternoon when I logged in to LinkedIn to check my notificati
 
 
 
-![linkedin_Chat](https://github.com/mademoixcel/Payroll/assets/124081194/10830fb4-194d-4ef5-b52b-ef2c46cdf686)
+![linkedin_Chat (1)](https://github.com/mademoixcel/Payroll/assets/124081194/7eb8c99d-7e83-444b-915a-74208c8854bd)
+
 
 
 
@@ -65,7 +66,7 @@ I used SEQUENCE() to number my rows, then copied the randomly generated names to
 
 # Calculating Pay for each week using SUM()
 
-I calculated the salary for each employee by multiplying the amount paid per hour and hours_worked. This was done using =hourly_wage*number_of_hours_worked
+I calculated the salary for each employee by multiplying the amount paid per hour and hours_worked. This was done using =hourly_wage*number_of_hours_worked, then filling down for the rest of the rows.
 
 # Overtime and  Overtime Payment
 
@@ -89,10 +90,13 @@ The marketing department has the highest number of employees while sales and bus
 
 
 # Getting the top net pay and using conditional formatting to highlight 
-Top net pay can easily be gotten by selecting all rows and columns using CTRL A and ALT+A+S+D to sort the values in descending order. The next thing I did was to use conditional formatting to highlight the values that appeared in the top 10.
+Top net pay can easily be gotten by selecting all rows and columns using CTRL A and ALT+A+S+D to sort the values in descending order. The next thing I did was to use conditional formatting to highlight the values that appeared in the top 10. These values are the top 10 net pay for the month of March.
+
 ![Screenshot (1012)](https://github.com/mademoixcel/Payroll/assets/124081194/a3b8c975-5d4d-4c8a-af5e-1eca55ce6933)
 
 # Who are the top 3 earners?
+![WhatsApp Image 2023-07-12 at 12 46 05 PM (1)](https://github.com/mademoixcel/Payroll/assets/124081194/fe90809b-cd5a-4e7f-bc21-595a2bd847b5)
+
 
 
 # Contributing
