@@ -34,7 +34,8 @@ It was on a Friday Afternoon when I logged in to LinkedIn to check my notificati
 
 
 
-![linkedin_Chat (1)](https://github.com/mademoixcel/Payroll/assets/124081194/7eb8c99d-7e83-444b-915a-74208c8854bd)
+![linkedin_Chat (3)](https://github.com/mademoixcel/Payroll/assets/124081194/7bb49890-f17a-4ce7-921a-6d3172482e3a)
+
 
 
 
