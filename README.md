@@ -83,6 +83,14 @@ I calculated the gross pay by adding the total gross pay for each week, then rem
 ![Screenshot (1010)](https://github.com/mademoixcel/Payroll/assets/124081194/1d20d522-304d-4446-9e1a-7b4a333d0c30)
 
 
+# How many people are in the organization
+
+I used COUNTIF() for this using 'Male' and 'Female' respectively for the criteria of each COUNTIF(). The result showed there are 52 Males and 35 Females .
+
+
+<img width="1705" alt="Untitled (27)" src="https://github.com/mademoixcel/Payroll/assets/124081194/f363cd09-690a-433b-8fd4-67995406d19e">
+
+
 # How many people are in each department?
 To do this, I used a pivot table to get the statistics of the number of people in each department, then used Figma to visualize it
 <img width="2402" alt="voice activated app Diagram (Community) (8)" src="https://github.com/mademoixcel/Payroll/assets/124081194/76e38a8b-8b88-40e0-b7c4-d21369cee00e">
