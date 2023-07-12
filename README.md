@@ -26,7 +26,7 @@ This Excel payroll project is a comprehensive spreadsheet solution for managing 
 
 - Uses functions and formulas such as VLOOKUP, COUNTIF, SUMIF, IF, MAXIMUM, MINIMUM, SUM, AVERAGE, shortcuts such as ALT+A+S+S, ALT+H+O+I, ALT+H+O+A, ALT+=, CTRL+SHIFT++
 
-- Drop down list to choose employee id (this will show each employee's details)
+- Drop down list to choose employee id 
 
 # Business scenario 
 It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup founder.
@@ -96,9 +96,9 @@ Top net pay can easily be gotten by selecting all rows and columns using CTRL A 
 
 # Who are the top 3 earners?
 ![WhatsApp Image 2023-07-12 at 12 46 05 PM (1)](https://github.com/mademoixcel/Payroll/assets/124081194/fe90809b-cd5a-4e7f-bc21-595a2bd847b5)
+The top 3 earners are:
+1. **Bobby Robinson** from the department of Sales and Business Development with a monthly net pay of $3,510.00
+2. **Christina Jackson** from the department of  Sales and Business Development with a monthly net pay of $3,369.90
+3. **Donna Diaz** from the department of Product Development with a monthly net pay of $3,287.70
 
-
-
-# Contributing
-
-If you would like to contribute to this project, please create an issue or pull request on GitHub.  Known Issues/Bugs: None at this time.  Contact Information: Please submit any questions or feedback related to this project to zehidathabit@gmail.com
+Click here to read all the steps taken to create this project
