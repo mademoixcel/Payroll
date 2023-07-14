@@ -79,8 +79,8 @@ I calculated the gross pay for each week by adding the overtime payment and the 
 
 ![Screenshot (999)](https://github.com/mademoixcel/Payroll/assets/124081194/6ad92200-d51f-4127-8350-9767790c8199)
 
-# Total Gross pay, Tax, and Net pay
-I calculated the gross pay by adding the total gross pay for each week, then removed the 7% tax. I did this by using =(0.007 * gross pay). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
+# Monthly Gross pay, Tax, and Net pay
+I calculated the gross pay by adding the total gross pay for each week, then removed the 10% tax. I did this by using =(0.1 * (gross pay)). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
 
 ![Screenshot (1010)](https://github.com/mademoixcel/Payroll/assets/124081194/1d20d522-304d-4446-9e1a-7b4a333d0c30)
 
@@ -111,4 +111,4 @@ The top 3 earners are:
 2. **Christina Jackson** from the department of  Sales and Business Development with a monthly net pay of $3,369.90
 3. **Donna Diaz** from the department of Product Development with a monthly net pay of $3,287.70
 
-Click here to read all the steps taken to create this project
+Click [here](https://zehidaidowu017.medium.com/using-microsoft-excel-for-effective-payroll-management-system-22af11c92952) to read all the steps taken to create this project.
