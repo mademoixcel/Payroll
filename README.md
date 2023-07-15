@@ -29,7 +29,7 @@ This Excel payroll project is a comprehensive spreadsheet solution for managing 
 - Drop down list to choose employee id 
 
 # Business scenario 
-It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup founder.
+It was on a Friday Afternoon when I logged in to LinkedIn to check my notifications and messages then I got this message from a startup representative.
 
 
 
@@ -77,12 +77,14 @@ The client asked to calculate the overtime pay for each employee by giving each 
 # Gross pay for each week
 I calculated the gross pay for each week by adding the overtime payment and the salary, then named and gave color to each week to be able to differentiate them.
 
-![Screenshot (999)](https://github.com/mademoixcel/Payroll/assets/124081194/6ad92200-d51f-4127-8350-9767790c8199)
+![Screenshot (1063)](https://github.com/mademoixcel/Payroll/assets/124081194/ec446df5-2b89-4ec3-ad9a-dba3ae55fdda)
+
 
 # Monthly Gross pay, Tax, and Net pay
 I calculated the gross pay by adding the total gross pay for each week, then removed the 10% tax. I did this by using =(0.1 * (gross pay)). This calculated the gross pay for each employee, then I calculated the net pay by subtracting the tax from gross pay.
 
-![Screenshot (1010)](https://github.com/mademoixcel/Payroll/assets/124081194/1d20d522-304d-4446-9e1a-7b4a333d0c30)
+![Screenshot (1065)](https://github.com/mademoixcel/Payroll/assets/124081194/de9fac07-c234-442f-91d6-637044feccff)
+
 
 
 # How many people are in the organization
